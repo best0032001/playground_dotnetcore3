@@ -10,3 +10,10 @@ services:
       SA_PASSWORD: "abcd[2015]"
       ACCEPT_EULA: "Y"
     restart: always
+  app:
+    build:
+      context: api_playground
+    container_name: app
+    ports:
+      - "80:80"
+    restart: always 
