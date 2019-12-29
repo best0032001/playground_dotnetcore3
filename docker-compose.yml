@@ -7,5 +7,6 @@ services:
     ports:
       - "1433:1433"
     environment:
-      SA_PASSWORD: "=u;bo[2015]"
+      SA_PASSWORD: "abcd[2015]"
       ACCEPT_EULA: "Y"
+    restart: always
