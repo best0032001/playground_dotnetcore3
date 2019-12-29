@@ -1,0 +1,5 @@
+D:\project\playground_dotnetcore3\api_playground\ModelGEN_Demo\bin\Debug\ModelGEN_Demo.dll
+D:\project\playground_dotnetcore3\api_playground\ModelGEN_Demo\bin\Debug\ModelGEN_Demo.pdb
+D:\project\playground_dotnetcore3\api_playground\ModelGEN_Demo\obj\Debug\ModelGEN_Demo.csprojAssemblyReference.cache
+D:\project\playground_dotnetcore3\api_playground\ModelGEN_Demo\obj\Debug\ModelGEN_Demo.dll
+D:\project\playground_dotnetcore3\api_playground\ModelGEN_Demo\obj\Debug\ModelGEN_Demo.pdb
